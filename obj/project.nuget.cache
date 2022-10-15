@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zvb9IvEvJ+A5C8yuD8EtGeFLjf+Dc5KT9Lz61sYTRnKJFT16pbRwIAvIdBqkGCk3xhXeOu/+VVj2YWc0GIce+w==",
+  "success": true,
+  "projectFilePath": "E:\\Central LIMS\\POC Login\\Login\\TestCookie\\POCCookieAuth\\POCCookieAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Braulio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
